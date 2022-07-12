@@ -1,0 +1,30 @@
+[
+    {
+        "models": "cars_and_brands.car",
+        "pk": 1,
+        "fields": {
+            "brand": 1,
+            "model": "Tacoma",
+            "year": 2022
+        }
+    },
+    {
+        "models": "cars_and_brands.car",
+        "pk": 2,
+        "fields": {
+            "brand": 2,
+            "model": "Outback",
+            "year": 2010
+        }
+    },
+    {
+        "models": "cars_and_brands.car",
+        "pk": 3,
+        "fields": {
+            "brand": 3,
+            "model": "Odyssey",
+            "year": 2000
+        }
+    }
+]
+
